@@ -13,6 +13,7 @@ Connect via ssh / telnet to your nas and execute this command lines:
 
 Switch to darkest theme?
 -----------------------------
+> cd /usr/www/scripts/modern
 > git checkout dark
 
 Open web admin page of nas and go to System->Utilities and switch theme from dull to modern
